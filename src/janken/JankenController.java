@@ -61,5 +61,5 @@ public class JankenController {
          cpuHandLabel.setText("コンピュータの手: " + hands[cpuHand]);
          myHandLabel.setText("あなたの手: " + hands[myHand]);
          resultLabel.setText("結果: " + getResult(myHand, cpuHand));
-     }
-}
+                   }
+         }
